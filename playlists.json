@@ -1,6 +1,22 @@
 [
   {
     "type": "group",
+    "title": "Workout Music",
+    "playlistData" : [
+      {
+        "id": "1jLiTX7lHtfaTMMosgjhTL",
+        "name": "Il Tempio - Vol. 1",
+        "img": "workout.jpeg"
+      },
+      {
+        "id": "3mNdTHT6ETqZkhhOhRzYms",
+        "name": "Il Tempio - Vol. 2",
+        "img": "workout.jpeg"
+      },
+    ]
+  }
+  {
+    "type": "group",
     "title": "Ti Sblocco un ricordo - Collection",
     "playlistData": [
       {
