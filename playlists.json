@@ -63,27 +63,27 @@
       {
         "id": "38aNelWLZDLlVJQ0C9Vugc",
         "name": "Future Bass Selection.",
-        "img": "futurebass"
+        "img": "futurebass.bmp"
       },
       {
         "id": "0bZXjTCvkCU84ZRW1JxBFc",
         "name": "Travelling in the Sunset.",
-        "img": "sunset"
+        "img": "sunset.bmp"
       },
       {
         "id": "1VAODyxPF2v4nCcbYJYJvQ",
         "name": "Tech House",
-        "img": "tech"
+        "img": "tech.bmp"
       },
       {
         "id": "5LrJ9qeM09OVIfsGwtrLo6",
         "name": "Powerful Techno",
-        "img": "tech"
+        "img": "tech.bmp"
       },
       {
         "id": "69duUc3YQpAOzwhPYUGfZn",
         "name": "Minimal Techno",
-        "img": "minimal"
+        "img": "minimal.bmp"
       }
     ]
   }
