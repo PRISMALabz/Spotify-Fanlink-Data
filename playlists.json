@@ -6,17 +6,17 @@
       {
         "id": "1jLiTX7lHtfaTMMosgjhTL",
         "name": "Il Tempio - Vol. 1",
-        "img": "workout.jpeg"
+        "img": "workout.webp"
       },
       {
         "id": "3mNdTHT6ETqZkhhOhRzYms",
         "name": "Il Tempio - Vol. 2",
-        "img": "workout.jpeg"
+        "img": "workout.webp"
       },
       {
         "id": "78dddTkhOrg5qFNfTGM8sW",
         "name": "Il Tempio - Vol. 3",
-        "img": "workout.jpeg"
+        "img": "workout.webp"
       }
     ]
   },
@@ -27,37 +27,37 @@
       {
         "id": "0mtRRq6eDG2uOvOZrI3aeY",
         "name": "Vol. 1",
-        "img": "tsur.jpeg"
+        "img": "tsur.webp"
       },
       {
         "id": "686pH6EtScSB53aAsjkyFY",
         "name": "Vol. 2",
-        "img": "tsur.jpeg"
+        "img": "tsur.webp"
       },
       {
         "id": "7dWmNOtCRrPvVByKfla25Y",
         "name": "Vol. 3",
-        "img": "tsur.jpeg"
+        "img": "tsur.webp"
       },
       {
         "id": "4V08QuHu25Z4697UiP7js5",
         "name": "Vol. 4",
-        "img": "tsur.jpeg"
+        "img": "tsur.webp"
       },
       {
         "id": "5n95R3nzJCVQSzXqDR5Rgd",
         "name": "Vol. 5",
-        "img": "tsur.jpeg"
+        "img": "tsur.webp"
       },
       {
         "id": "081WhnGzLNnvmyz9CYaUix",
         "name": "Vol. 6",
-        "img": "tsur.jpeg"
+        "img": "tsur.webp"
       },
       {
         "id": "6MQ5IxMt1jDDixxgUO54cn",
         "name": "Vol. 7",
-        "img": "tsur.jpeg"
+        "img": "tsur.webp"
       }
     ]
   },
@@ -68,27 +68,27 @@
       {
         "id": "38aNelWLZDLlVJQ0C9Vugc",
         "name": "Future Bass Selection.",
-        "img": "futurebass.bmp"
+        "img": "futurebass.webp"
       },
       {
         "id": "0bZXjTCvkCU84ZRW1JxBFc",
         "name": "Travelling in the Sunset.",
-        "img": "sunset.bmp"
+        "img": "sunset.webp"
       },
       {
         "id": "1VAODyxPF2v4nCcbYJYJvQ",
         "name": "Tech House",
-        "img": "tech.bmp"
+        "img": "tech.webp"
       },
       {
         "id": "5LrJ9qeM09OVIfsGwtrLo6",
         "name": "Powerful Techno",
-        "img": "tech.bmp"
+        "img": "tech.webp"
       },
       {
         "id": "69duUc3YQpAOzwhPYUGfZn",
         "name": "Minimal Techno",
-        "img": "minimal.bmp"
+        "img": "minimal.webp"
       }
     ]
   }
