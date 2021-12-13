@@ -63,6 +63,17 @@
   },
   {
     "type": "group",
+    "title": "Pop",
+    "playlistData": [
+      {
+        "id": "3qVZsejRqQqjJizpuUVklU",
+        "name": "Cozy Afternoon",
+        "img": "futurebass.webp"
+      }
+    ]
+  },
+  {
+    "type": "group",
     "title": "Other",
     "playlistData": [
       {
