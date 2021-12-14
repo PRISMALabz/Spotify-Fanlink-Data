@@ -1,106 +1,137 @@
 [
-  {
-    "type": "group",
-    "title": "Workout Music",
-    "playlistData" : [
-      {
-        "id": "1jLiTX7lHtfaTMMosgjhTL",
-        "name": "Il Tempio - Vol. 1",
-        "img": "workout.webp"
-      },
-      {
-        "id": "3mNdTHT6ETqZkhhOhRzYms",
-        "name": "Il Tempio - Vol. 2",
-        "img": "workout.webp"
-      },
-      {
-        "id": "78dddTkhOrg5qFNfTGM8sW",
-        "name": "Il Tempio - Vol. 3",
-        "img": "workout.webp"
-      }
-    ]
-  },
-  {
-    "type": "group",
-    "title": "Ti Sblocco un ricordo - Collection",
-    "playlistData": [
-      {
-        "id": "0mtRRq6eDG2uOvOZrI3aeY",
-        "name": "Vol. 1",
-        "img": "tsur.webp"
-      },
-      {
-        "id": "686pH6EtScSB53aAsjkyFY",
-        "name": "Vol. 2",
-        "img": "tsur.webp"
-      },
-      {
-        "id": "7dWmNOtCRrPvVByKfla25Y",
-        "name": "Vol. 3",
-        "img": "tsur.webp"
-      },
-      {
-        "id": "4V08QuHu25Z4697UiP7js5",
-        "name": "Vol. 4",
-        "img": "tsur.webp"
-      },
-      {
-        "id": "5n95R3nzJCVQSzXqDR5Rgd",
-        "name": "Vol. 5",
-        "img": "tsur.webp"
-      },
-      {
-        "id": "081WhnGzLNnvmyz9CYaUix",
-        "name": "Vol. 6",
-        "img": "tsur.webp"
-      },
-      {
-        "id": "6MQ5IxMt1jDDixxgUO54cn",
-        "name": "Vol. 7",
-        "img": "tsur.webp"
-      }
-    ]
-  },
-  {
-    "type": "group",
-    "title": "Pop",
-    "playlistData": [
-      {
-        "id": "3qVZsejRqQqjJizpuUVklU",
-        "name": "Cozy Afternoon",
-        "img": "futurebass.webp"
-      }
-    ]
-  },
-  {
-    "type": "group",
-    "title": "Other",
-    "playlistData": [
-      {
-        "id": "38aNelWLZDLlVJQ0C9Vugc",
-        "name": "Future Bass Selection.",
-        "img": "futurebass.webp"
-      },
-      {
-        "id": "0bZXjTCvkCU84ZRW1JxBFc",
-        "name": "Travelling in the Sunset.",
-        "img": "sunset.webp"
-      },
-      {
-        "id": "1VAODyxPF2v4nCcbYJYJvQ",
-        "name": "Tech House",
-        "img": "tech.webp"
-      },
-      {
-        "id": "5LrJ9qeM09OVIfsGwtrLo6",
-        "name": "Powerful Techno",
-        "img": "tech.webp"
-      },
-      {
-        "id": "69duUc3YQpAOzwhPYUGfZn",
-        "name": "Minimal Techno",
-        "img": "minimal.webp"
-      }
-    ]
-  }
+    {
+        "type": "group",
+        "title": "Techno",
+        "playlistData": [
+            {
+                "id": "1r2EhPVFtTTqL1sP3QYNHg",
+                "name": "Techno K21",
+                "img": ""
+            },
+            {
+                "id": "54h4wsIAa22KWMiyvDdRdm",
+                "name": "Techno Essentials",
+                "img": ""
+            },
+            {
+                "id": "4QMF0A2lESgMw3v0jXiYNU",
+                "name": "Tech House",
+                "img": ""
+            },
+            {
+                "id": "6xIpbGxCmsbEO0T1LCdQ4K",
+                "name": "Minimal Tech",
+                "img": ""
+            },
+            {
+                "id": "3IQPjgKjYJGB4V7FT5Kvo8",
+                "name": "Minimal Tech V2",
+                "img": ""
+            }
+        ]
+    },
+    {
+        "type": "group",
+        "title": "Workout Music",
+        "playlistData": [
+            {
+                "id": "1jLiTX7lHtfaTMMosgjhTL",
+                "name": "Il Tempio - Vol. 1",
+                "img": "workout.webp"
+            },
+            {
+                "id": "3mNdTHT6ETqZkhhOhRzYms",
+                "name": "Il Tempio - Vol. 2",
+                "img": "workout.webp"
+            },
+            {
+                "id": "78dddTkhOrg5qFNfTGM8sW",
+                "name": "Il Tempio - Vol. 3",
+                "img": "workout.webp"
+            }
+        ]
+    },
+    {
+        "type": "group",
+        "title": "Ti Sblocco un ricordo - Collection",
+        "playlistData": [
+            {
+                "id": "0mtRRq6eDG2uOvOZrI3aeY",
+                "name": "Vol. 1",
+                "img": "tsur.webp"
+            },
+            {
+                "id": "686pH6EtScSB53aAsjkyFY",
+                "name": "Vol. 2",
+                "img": "tsur.webp"
+            },
+            {
+                "id": "7dWmNOtCRrPvVByKfla25Y",
+                "name": "Vol. 3",
+                "img": "tsur.webp"
+            },
+            {
+                "id": "4V08QuHu25Z4697UiP7js5",
+                "name": "Vol. 4",
+                "img": "tsur.webp"
+            },
+            {
+                "id": "5n95R3nzJCVQSzXqDR5Rgd",
+                "name": "Vol. 5",
+                "img": "tsur.webp"
+            },
+            {
+                "id": "081WhnGzLNnvmyz9CYaUix",
+                "name": "Vol. 6",
+                "img": "tsur.webp"
+            },
+            {
+                "id": "6MQ5IxMt1jDDixxgUO54cn",
+                "name": "Vol. 7",
+                "img": "tsur.webp"
+            }
+        ]
+    },
+    {
+        "type": "group",
+        "title": "Pop",
+        "playlistData": [
+            {
+                "id": "3qVZsejRqQqjJizpuUVklU",
+                "name": "Cozy Afternoon",
+                "img": "futurebass.webp"
+            }
+        ]
+    },
+    {
+        "type": "group",
+        "title": "Other",
+        "playlistData": [
+            {
+                "id": "38aNelWLZDLlVJQ0C9Vugc",
+                "name": "Future Bass Selection.",
+                "img": "futurebass.webp"
+            },
+            {
+                "id": "0bZXjTCvkCU84ZRW1JxBFc",
+                "name": "Travelling in the Sunset.",
+                "img": "sunset.webp"
+            },
+            {
+                "id": "1VAODyxPF2v4nCcbYJYJvQ",
+                "name": "Tech House",
+                "img": "tech.webp"
+            },
+            {
+                "id": "5LrJ9qeM09OVIfsGwtrLo6",
+                "name": "Powerful Techno",
+                "img": "tech.webp"
+            },
+            {
+                "id": "69duUc3YQpAOzwhPYUGfZn",
+                "name": "Minimal Techno",
+                "img": "minimal.webp"
+            }
+        ]
+    }
 ]
